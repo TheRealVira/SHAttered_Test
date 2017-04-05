@@ -15,16 +15,16 @@ Testing out if the SHA-1 could really break in practice.
 
 ## Testing
 
-For testing purpose I am using my default operating system ([Elementary OS](https://elementary.io/)). I have already downlaod the files, which are supposed to have am equal Sha-1 hahses! (Speaking of "`shattered-1.pdf`" and "`shattered-2.pdf`")
+For testing purpose I am using my default operating system ([Elementary OS](https://elementary.io/)). I have already downlaoded the files, which are supposed to have equal Sha-1 hahses! (Speaking of "`shattered-1.pdf`" and "`shattered-2.pdf`")
 
 When calculating the Sha-1 hashes the results are stunning:
 
 shattered-1.pdf:  `38762cf7f55934b34d179ae6a4c80cadccbb7f0a`<br /> 
 shattered-2.pdf:  `38762cf7f55934b34d179ae6a4c80cadccbb7f0a`
 
-For those how do not see it by now - those two strings/hashes are **equal**, which is like really bad!
+For those how do not see it by now - those two strings/hashes are **equal**, which is like really really bad!
 
-## Output of the results
+## Results copied from the terminal
 ```
 vira@DerLaptop:~/Documents/Shattered/SHAttered_Test$ ls
 LICENSE  README.md  shattered-1.pdf  shattered-2.pdf
